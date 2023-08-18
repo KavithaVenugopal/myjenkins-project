@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "simple script file"
+echo "enter number a: $a"
+read a
+echo "enter number b: $b"
+read b
+# Addition
+sum=$((a + b))
+echo "Sum: $sum"
+
+# Subtraction
+diff=$((a - b))
+echo "Difference: $diff"

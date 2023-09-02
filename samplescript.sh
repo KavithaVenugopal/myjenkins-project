@@ -6,3 +6,4 @@ echo "enter number b: $b"
 read b
 sum=$(($a+$b))
 echo "addition of: $sum" 
+echo "addition of script"

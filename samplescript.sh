@@ -8,3 +8,4 @@ sum=$(($a+$b))
 echo "addition of: $sum" 
 echo "addition of script"
 echo "new line"
+echo "test"
